@@ -1,2 +1,2 @@
 # Valuation-Masterclass
-Some python programming for finance valuation.
+The python programming codes that I developed for the class.
